@@ -6,3 +6,4 @@ Un blog de prueba
 >- niñita
 * Creado por Vicky
 * Incluye ejemplos en windows, Linnux y Mac
+* Disponible para todas las edades
